@@ -1,0 +1,21 @@
+h1,p{
+   text-align: center;
+}
+
+li{
+    margin-left: 20%;
+    margin-bottom: 10px;
+}
+
+input{
+    margin-left: 20%;
+}
+
+#enter{
+    margin-left: 43%;
+}
+
+.toDo{
+    float: right; 
+    margin-right: 10%;
+}
